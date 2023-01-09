@@ -1,4 +1,7 @@
-<h1 >Hi 👋, I'm 毛毛虫</h1>
+<h1 >Hi 👋, I'm 毛毛虫 </h1>
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=codeDaiQin.visitor-badge)
+
 <h3 >A frontend developer</h3>
 
 - 📝 I regularly write articles on [mmszb.cn](https://www.mmszb.cn)
