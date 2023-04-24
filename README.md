@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **mmszb@qq.com**
 
-> I'm looking for a job !
 
 [![codeDaiQin's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeDaiQin)](https://github.com/codeDaiQin)
 
