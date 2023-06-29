@@ -1,4 +1,4 @@
-<h1 >Hi 👋, I'm 毛毛虫 </h1>
+<h1 >Hi 👋, I'm Caterpillar (毛毛虫) </h1>
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=codeDaiQin.visitor-badge)
 
