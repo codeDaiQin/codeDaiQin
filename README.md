@@ -4,7 +4,7 @@
 
 <h3 >A frontend developer</h3>
 
-- 📝 I regularly write articles on [mmszb.cn](https://www.mmc-edu.icu)
+- 📝 I regularly write articles on [mmc-edu.icu](https://www.mmc-edu.icu)
 
 - 📫 How to reach me **mmszb@qq.com**
 
